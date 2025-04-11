@@ -1,3 +1,3 @@
-### ML - Linear Regression
+### ML - Lineal Regression
 
-Basic example of Linear Regression using Python and Scikit-learn library.
+Basic example of Lineal Regression using Python and Scikit-learn library.
